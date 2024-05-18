@@ -11,7 +11,7 @@ document.getElementById("num2-el").textContent = num2;
 sumEl = document.getElementById("sum-el");
 
 function add() {
-  final = num1 - num2;
+  final = num1 + num2;
   sumEl.textContent = "Sum:" + final;
 }
 function sub() {
