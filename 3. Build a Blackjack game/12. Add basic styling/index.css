@@ -1,13 +1,15 @@
 /* Complete the CSS styling according to the provided design */
 
 body {
-    
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+
+  background-image: url(C:\Users\SUVANSH\Desktop\placement\Javascript\learn-javascript-main\3. Build a Blackjack game\12. Add basic styling\images\table.png);
 }
 
 h1 {
-    color: goldenrod;
+  color: goldenrod;
 }
 
 #message-el {
-    
 }
