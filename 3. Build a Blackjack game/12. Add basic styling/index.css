@@ -4,7 +4,11 @@ body {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
 
-  background-image: url(C:\Users\SUVANSH\Desktop\placement\Javascript\learn-javascript-main\3. Build a Blackjack game\12. Add basic styling\images\table.png);
+  background-image: url(images/table.png);
+  background-size: cover;
+  color: white;
+  text-align: center;
+  font-weight: bold;
 }
 
 h1 {
@@ -12,4 +16,5 @@ h1 {
 }
 
 #message-el {
+    font-style: italic;
 }

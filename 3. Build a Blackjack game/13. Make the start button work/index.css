@@ -1,18 +1,19 @@
 body {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
-    background-image: url("images/table.png");
-    background-size: cover;
-    font-weight: bold;
-    color: white;
-    text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", Arial,
+    sans-serif;
+  background-image: url("images/table.png");
+  background-size: cover;
+  font-weight: bold;
+  color: white;
+  text-align: center;
 }
 
 h1 {
-    color: goldenrod;
+  color: goldenrod;
 }
 
 #message-el {
-    font-style: italic;
+  font-style: italic;
 }
 
 /* 
@@ -21,7 +22,13 @@ text color - #016f32
 width      - 150px
 background - goldenrod
  */
- 
-button {
 
+button {
+  color: #016f32;
+  background-color: goldenrod;
+  width: 150px;
+  font-weight: bold;
+  padding: 5px 0px;
+  border: none;
+  border-radius: 2px;
 }
