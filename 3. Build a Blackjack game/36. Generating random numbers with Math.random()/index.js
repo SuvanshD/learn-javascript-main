@@ -1,7 +1,6 @@
-let randomNumber = Math.random()
+let randomNumber = Math.random();
 
-console.log(randomNumber)
-
+console.log(randomNumber * 100);
 
 /* 
 
